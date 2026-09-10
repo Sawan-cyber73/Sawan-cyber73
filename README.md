@@ -1,16 +1,25 @@
-## Hi there 👋
+╔══════════════════════════════════════╗
+║              SAWAN                   ║
+║ Backend Engineer | API Developer     ║
+╚══════════════════════════════════════╝
 
-<!--
-**Sawan-cyber73/Sawan-cyber73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        👋 Hey, I'm Sawan
 
-Here are some ideas to get you started:
+        Backend Engineer
+        API Developer
+        Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Tech Stack
+💻 Programming Languages
+🚀 Backend
+🗄️ Databases
+☁️ DevOps
+
+🚀 Featured Projects
+📊 GitHub Analytics
+🔥 GitHub Streak
+🏆 GitHub Trophies
+📈 Contribution Graph
+🐍 Contribution Snake
+🎯 2026 Goals
+🤝 Connect With Me
