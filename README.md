@@ -23,3 +23,4 @@
 🐍 Contribution Snake
 🎯 2026 Goals
 🤝 Connect With Me
+<img src="https://raw.githubusercontent.com/Sawan-cyber73/Sawan-cyber73/output/github-contribution-grid-snake-dark.svg" />
